@@ -79,7 +79,7 @@ O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma c
 
 **Foco da ferramenta:** Automação e eliminação de servidores
 
-**Como será usado neste projeto:** Sempre que um arquivo chega ao S3, a ferramenta Lambda é acionada automaticamente e vlida os dados, remove duplicidades, consolida vendas por loja e produto e por fim salva os dados tratados novamente no S3.
+**Como será usado neste projeto:** Sempre que um arquivo chega ao S3, a ferramenta Lambda é acionada automaticamente e valida os dados, remove duplicidades, consolida vendas por loja e produto e por fim salva os dados tratados novamente no S3.
 
 **Problema que resolve:**
 - Processos manuais de tratamento de dados
@@ -141,5 +141,6 @@ ___Daniele Pereira de Souza___
 - LinkedIn: [Daniele Souza](https://www.linkedin.com/in/daniele-pereira-de-souza-7523a4189/)
 
 ---
+
 
 
