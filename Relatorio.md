@@ -23,7 +23,7 @@ Este relatório apresenta o processo de implementação de ferramentas na empres
 
 
 ## 🎯 Objetivo do projeto:
-Reduzir custos operacionais de forma imediata, sem foco em inovação avançada, usando apenas 3 serviços AWS.
+Reduzir custos operacionais de forma imediata, usando apenas 3 serviços AWS.
 
 ---
 
@@ -44,7 +44,7 @@ A imagem abaixo apresenta a comparação do sistema atual x sistema proposto:
 
 ---
 ## 🚀 Implementação
-O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos espec~ificos. A seguir, serão descritas as etapas do projeto:
+O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
 ---
 
@@ -141,4 +141,5 @@ ___Daniele Pereira de Souza___
 - LinkedIn: [Daniele Souza](https://www.linkedin.com/in/daniele-pereira-de-souza-7523a4189/)
 
 ---
+
 
